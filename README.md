@@ -238,12 +238,6 @@ tail -f logs/trading_agent_YYYYMMDD.log
 grep "ERROR" logs/trading_agent_YYYYMMDD.log
 ```
 
-## 🔐 Security Best Practices
-
-- **API Keys**: Store in environment variables, never commit to git
-- **Rate Limiting**: Built-in rate limiting to prevent API abuse
-- **Error Handling**: Comprehensive error handling and recovery
-- **Dry Run Mode**: Test strategies without real money
 
 ## 🎛️ Environment Variables
 
@@ -278,13 +272,6 @@ MIN_TRADE_AMOUNT=15.0
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📞 Support
-
-- **Issues**: Open a GitHub issue for bugs or feature requests
-- **Documentation**: Check the `docs/` folder for detailed guides
-- **Community**: Join the Recall Discord community
-- **Competition**: Follow hackathon guidelines and deadlines
 
 ## 📜 License
 
