@@ -265,14 +265,6 @@ REBALANCE_THRESHOLD=0.04
 MIN_TRADE_AMOUNT=15.0
 ```
 
-## 🚨 Important Notes
-
-### For Hackathon Participants
-- **Test Thoroughly**: Always test in sandbox mode first
-- **Monitor Closely**: Keep an eye on your agent's performance
-- **Risk Management**: The agent is designed to be conservative
-- **Documentation**: Keep logs for post-competition analysis
-
 ### Risk Disclaimers
 - This software is for educational and competition purposes only
 - Trading involves risk and past performance doesn't guarantee future results
@@ -298,16 +290,4 @@ MIN_TRADE_AMOUNT=15.0
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏆 Competition Tips
-
-1. **Start Conservative**: Better to preserve capital than take big risks
-2. **Monitor Performance**: Use the status and report commands regularly
-3. **Test Strategies**: Use dry-run mode to test configuration changes
-4. **Stay Updated**: Monitor the Recall Discord for competition updates
-5. **Document Everything**: Keep detailed logs for analysis
-
 ---
-
-**Good luck in the Recall Trading Competition! 🚀**
-
-Remember: Consistent, risk-managed returns typically win trading competitions over high-risk, high-reward strategies.
